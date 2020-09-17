@@ -1,3 +1,6 @@
+
+![Preview](/ss/1.jpg)
+![Preview](/ss/2.jpg)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
